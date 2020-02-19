@@ -1,0 +1,75 @@
+﻿@model ClientManagerApplication.Models.Address
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h3>
+    Delete @Html.DisplayFor(model => model.Person.first_name)
+    @Html.DisplayFor(model => model.Person.last_name)'s
+    @Html.DisplayFor(model => model.description) Address Record
+</h3>
+
+<h4>Are you sure you want to delete this address record?</h4>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.street)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.street)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.city)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.city)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.province_state)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.province_state)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.zip_postal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.zip_postal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Country.country_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Country.country_name)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index", new { id = Model.person_id })
+        </div>
+    }
+</div>

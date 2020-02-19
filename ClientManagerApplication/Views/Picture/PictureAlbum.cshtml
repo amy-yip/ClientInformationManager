@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ClientManagerApplication.Models.Picture>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.caption)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.path)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.location)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.caption)
+            </td>
+            <td>
+                <img src="/Images/@Html.DisplayFor(modelItem => item.path)" style="max-height:100px; max-width:100px">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.location)
+            </td>        
+            <td>
+                @Html.ActionLink("Set as Profile Picture", "MakeMyProfile", new { id = item.picture_id }) |
+                @Html.ActionLink("Edit", "Edit", new { id = item.picture_id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.picture_id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.picture_id })
+            </td>
+        </tr>
+    }
+    
+    </table>

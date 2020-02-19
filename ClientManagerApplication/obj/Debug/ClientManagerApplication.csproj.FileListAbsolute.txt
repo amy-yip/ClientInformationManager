@@ -1,0 +1,525 @@
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb
+D:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+E:\E-Commerce\Assignments\Main Assignment I\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+C:\Users\cstuser\Documents\ClientManagerApplication (1)\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+C:\Users\cstuser\Downloads\20200206172548_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+C:\Users\cstuser\Downloads\20200210121342_ClientManagerApplication\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+E:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll.config
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\ClientManagerApplication.pdb
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.exe.config
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csc.rsp
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.exe.config
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\csi.rsp
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.AppContext.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Console.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Compression.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.IO.Pipes.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Claims.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Threading.Thread.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.ValueTuple.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.exe.config
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\vbc.rsp
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\EntityFramework.SqlServer.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Razor.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Deployment.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Webpages.Razor.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Helpers.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\System.Web.Mvc.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csprojAssemblyReference.cache
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CoreCompileInputs.cache
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.csproj.CopyComplete
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.dll
+D:\e-commerce\BeforeExam2\ClientManagerApplication\ClientManagerApplication\obj\Debug\ClientManagerApplication.pdb

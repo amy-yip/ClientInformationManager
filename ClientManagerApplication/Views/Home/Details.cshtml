@@ -1,0 +1,60 @@
+﻿@model ClientManagerApplication.Models.Person
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h3>
+    Details of @Html.DisplayFor(model => model.first_name)
+    @Html.DisplayFor(model => model.last_name)'s Record
+</h3>
+
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.first_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.first_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.last_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.notes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.notes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.picture_id)
+        </dt>
+
+        <dd>
+            <img src="/Images/@Html.DisplayFor(model => model.Picture.path)" style="max-height:100px; max-width:100px">
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.person_id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

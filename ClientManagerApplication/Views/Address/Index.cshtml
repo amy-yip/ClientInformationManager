@@ -1,0 +1,17 @@
+﻿@model ClientManagerApplication.Models.Person
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>
+    @Html.DisplayFor(model => model.first_name)
+    @Html.DisplayFor(model => model.last_name)'s Address Records
+</h3>
+
+<p>
+    @Html.ActionLink("Add New Address", "Create", new { id = Model.person_id })
+</p>
+
+@Html.Partial("AddressList", Model.Addresses)
+@Html.ActionLink("Back to List", "Index", "Home")

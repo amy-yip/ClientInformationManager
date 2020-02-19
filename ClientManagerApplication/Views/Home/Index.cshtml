@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ClientManagerApplication.Models.Person>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Home Page</h2>
+
+<form method="get" action="/Home/Search">
+    <label> Search: </label> <input type="text" name="name" /> <input type="submit" name="search" value="Search" class="btn btn-default" />
+</form>
+
+<p>
+    @Html.ActionLink("Create New Profile", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.picture_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.first_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.last_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.notes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.gender)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>
+                <img src="/Images/@Html.DisplayFor(modelItem => item.Picture.path)" style="max-height:100px; max-width:100px">
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.first_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.last_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gender)
+            </td>
+            <td>
+                @Html.ActionLink("Pictures", "Index", "Picture", new { id = item.person_id }, null) |
+                @Html.ActionLink("Address Information", "Index", "Address", new { id = item.person_id }, null) |
+                @Html.ActionLink("Contact Information", "Index", "Contact", new { id = item.person_id }, null) |
+                @Html.ActionLink("Edit", "Edit", new { id = item.person_id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.person_id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.person_id })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,69 @@
+﻿@model ClientManagerApplication.Models.Person
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h3>
+    Delete @Html.DisplayFor(model => model.first_name)
+    @Html.DisplayFor(model => model.last_name)'s Record
+</h3>
+
+<h4>
+    Are you sure you want to delete @Html.DisplayFor(model => model.first_name)
+    @Html.DisplayFor(model => model.last_name)?
+</h4>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.first_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.first_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.last_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.notes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.notes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.picture_id)
+        </dt>
+
+        <dd>
+            <img src="/Images/@Html.DisplayFor(model => model.Picture.path)" style="max-height:100px; max-width:100px">
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
